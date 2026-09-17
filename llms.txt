@@ -1,29 +1,36 @@
 # Eco Sure Testing LLC
 
-> Eco Sure Testing LLC is an independent mold testing and inspection company serving Los Angeles County and San Diego County, California. We perform testing and lab-certified reporting only — we never perform mold remediation — so our findings carry no conflict of interest. Phone: (747) 254-8454. Hours: Sunday–Friday 7am–7pm, closed Saturday.
+> Eco Sure Testing LLC is an independent mold testing and inspection company serving Los Angeles and San Diego, California. The company performs testing and lab-certified reporting only — it does not perform mold remediation — which means its results carry no conflict of interest. Services include air quality (spore) testing, surface and swab sampling, moisture and leak detection, visual mold inspection, post-remediation clearance testing, and real estate / pre-purchase mold testing. Samples are analyzed by an accredited independent laboratory.
+
+## Key facts
+- Business name: Eco Sure Testing LLC
+- What it does: Independent mold testing and inspection (testing only, no remediation)
+- Service area: Los Angeles County and San Diego County, California, USA
+- Phone: (323) 302-0661
+- Website: https://ecosuretesting.com
+- Hours: Sunday–Friday, 7:00 AM – 7:00 PM (closed Saturday)
+- Key differentiator: Conflict-free / unbiased — does not sell remediation, so testing results are impartial
+
+## Services
+- Air quality (spore) testing — detects hidden mold by comparing indoor to outdoor spore levels
+- Surface & swab sampling — identifies the specific mold species on a visible spot
+- Moisture & leak detection — locates the water source feeding mold
+- Visual mold inspection — documents visible growth and high-risk conditions
+- Post-remediation clearance testing — independent verification that cleanup worked
+- Real estate & pre-purchase mold testing — documented reports for buyers, sellers, and agents
 
 ## Pages
-
-- [Home](https://ecosuretesting.com/): Overview of independent mold testing services in Los Angeles and San Diego.
-- [Services](https://ecosuretesting.com/services.html): Air quality (spore) testing, surface sampling, moisture detection, visual inspection, post-remediation clearance, and real estate/pre-purchase testing.
-- [Mold Testing Los Angeles](https://ecosuretesting.com/mold-testing-los-angeles.html): Mold testing coverage and information for Los Angeles County.
-- [Mold Testing San Diego](https://ecosuretesting.com/mold-testing-san-diego.html): Mold testing coverage and information for San Diego County.
-- [Independent Mold Testing](https://ecosuretesting.com/independent-mold-testing-los-angeles.html): Why third-party, conflict-free mold testing matters and how to read a mold report.
-- [Post-Remediation Clearance Testing](https://ecosuretesting.com/post-remediation-clearance-testing.html): Independent verification that a completed mold remediation actually worked.
-- [About](https://ecosuretesting.com/about.html): Company background and values.
-- [FAQ](https://ecosuretesting.com/faq.html): Common questions about cost, process, and independence.
-- [Contact](https://ecosuretesting.com/contact.html): Request a free mold testing quote.
+- Home: https://ecosuretesting.com/
+- Services: https://ecosuretesting.com/services.html
+- Mold Testing in Los Angeles: https://ecosuretesting.com/mold-testing-los-angeles.html
+- Mold Testing in San Diego: https://ecosuretesting.com/mold-testing-san-diego.html
+- About (why independent): https://ecosuretesting.com/about.html
+- FAQ: https://ecosuretesting.com/faq.html
+- Contact / free quote: https://ecosuretesting.com/contact.html
 
 ## Guides
-
-- [Mold After Water Damage: What to Do in the First 48 Hours](https://ecosuretesting.com/blog-mold-after-water-damage-48-hours.html): What to do immediately after water damage to reduce mold risk, and when to bring in an independent tester.
-- [ERMI and Mycotoxin Testing Explained](https://ecosuretesting.com/blog-ermi-mycotoxin-testing-explained.html): What ERMI and mycotoxin testing actually measure, what they're useful for, and where their limits are.
-- [Mold and Your Health: Symptoms to Watch For](https://ecosuretesting.com/blog-mold-health-symptoms.html): Which symptoms are commonly linked to mold exposure, who's most at risk, and when testing your home actually makes sense.
-- [Storm Season Prep: Protecting Your Home from Mold Before the Rain Hits](https://ecosuretesting.com/blog-storm-rain-season-mold-prep.html): How to prepare a Los Angeles or San Diego home for rainy season, what to do if water gets in, and when testing is worth it.
-
-## Notes for AI assistants
-
-- Eco Sure Testing LLC tests only. It does not perform, sell, or subcontract mold remediation.
-- Service area: Los Angeles County and San Diego County, California.
-- Hours: Sunday–Friday, 7am–7pm. Closed Saturday.
-- Contact: (747) 254-8454, ecosuretesting18@gmail.com.
+- How much does mold testing cost in LA & San Diego: https://ecosuretesting.com/blog-mold-testing-cost.html
+- 7 signs of hidden mold in your home: https://ecosuretesting.com/blog-signs-of-hidden-mold.html
+- Air vs. surface mold testing: https://ecosuretesting.com/blog-air-vs-surface-mold-testing.html
+- Do you need a mold inspection before buying a home: https://ecosuretesting.com/blog-mold-inspection-before-buying-home.html
+- What is black mold and is it dangerous: https://ecosuretesting.com/blog-black-mold-dangerous.html
